@@ -3,10 +3,10 @@ A lightweight Python implementation of object recognition built with OpenCV and 
 
 **Important PATHs:**
 
-config_file = './config/ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt'
+- config_file = './config/ssd_mobilenet_v3_large_coco_2020_01_14.pbtxt'
 
-frozen_model = './config/frozen_inference_graph.pb'
+- frozen_model = './config/frozen_inference_graph.pb'
 
-file_name = './config/Labels.txt'
+- file_name = './config/Labels.txt'
 
-images and videos: ./img_video
+- images and videos: ./img_video
