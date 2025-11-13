@@ -1,4 +1,4 @@
-# Object Recognition based on OpenCV and MobileNet-SSD v3
+# OpenCV Object Recognition
 A python implementation of object recognition based on OpenCV and MobileNet-SSD v3
 
 Important PATHs:
